@@ -1,0 +1,19 @@
+{
+  "employees":[
+    {
+      "id":"1",
+      "username":"Axle",
+      "password":"1234"
+    },
+    {
+      "id":"2",
+      "username":"Jane",
+      "password":"1234"
+    },
+    {
+      "id":"3",
+      "username":"Mary",
+      "password":"1234"
+    }
+  ]
+}
